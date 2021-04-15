@@ -11,9 +11,9 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		3663708840044002CD250BC8 /* libPods-FlareSyns-FlareSynsTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C1A219AAEED82BAA45FCD7B /* libPods-FlareSyns-FlareSynsTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		DDAE3C963934809766E98FE1 /* libPods-FlareSyns.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6D7F931F48915E4025A2D222 /* libPods-FlareSyns.a */; };
+		8435F0A74ACCD526A60ADBFB /* libPods-FlareSyns.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 67EDCF26C2BEBA70BEC946F6 /* libPods-FlareSyns.a */; };
+		E43EEF3219D1E7B2C0729641 /* libPods-FlareSyns-FlareSynsTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 275EE6BDF9EDE1D04F2208EB /* libPods-FlareSyns-FlareSynsTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,14 +36,14 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = FlareSyns/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = FlareSyns/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = FlareSyns/main.m; sourceTree = "<group>"; };
-		1C1A219AAEED82BAA45FCD7B /* libPods-FlareSyns-FlareSynsTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FlareSyns-FlareSynsTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1FF0EE767AFDCD1C4A41E3C5 /* Pods-FlareSyns.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlareSyns.debug.xcconfig"; path = "Target Support Files/Pods-FlareSyns/Pods-FlareSyns.debug.xcconfig"; sourceTree = "<group>"; };
-		462778B13022C7104897C86E /* Pods-FlareSyns-FlareSynsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlareSyns-FlareSynsTests.release.xcconfig"; path = "Target Support Files/Pods-FlareSyns-FlareSynsTests/Pods-FlareSyns-FlareSynsTests.release.xcconfig"; sourceTree = "<group>"; };
-		6C5862E12B9E35EADFB5C69B /* Pods-FlareSyns.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlareSyns.release.xcconfig"; path = "Target Support Files/Pods-FlareSyns/Pods-FlareSyns.release.xcconfig"; sourceTree = "<group>"; };
-		6D7F931F48915E4025A2D222 /* libPods-FlareSyns.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FlareSyns.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		275EE6BDF9EDE1D04F2208EB /* libPods-FlareSyns-FlareSynsTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FlareSyns-FlareSynsTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		67EDCF26C2BEBA70BEC946F6 /* libPods-FlareSyns.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FlareSyns.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		76A31F244F3AB13DA444BC06 /* Pods-FlareSyns-FlareSynsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlareSyns-FlareSynsTests.debug.xcconfig"; path = "Target Support Files/Pods-FlareSyns-FlareSynsTests/Pods-FlareSyns-FlareSynsTests.debug.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = FlareSyns/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		9315D382165B94A0781A790C /* Pods-FlareSyns-FlareSynsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlareSyns-FlareSynsTests.debug.xcconfig"; path = "Target Support Files/Pods-FlareSyns-FlareSynsTests/Pods-FlareSyns-FlareSynsTests.debug.xcconfig"; sourceTree = "<group>"; };
+		8992CF1C10AAFC0FBADA6F10 /* Pods-FlareSyns-FlareSynsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlareSyns-FlareSynsTests.release.xcconfig"; path = "Target Support Files/Pods-FlareSyns-FlareSynsTests/Pods-FlareSyns-FlareSynsTests.release.xcconfig"; sourceTree = "<group>"; };
+		EAB722E7823BD97403117A48 /* Pods-FlareSyns.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlareSyns.release.xcconfig"; path = "Target Support Files/Pods-FlareSyns/Pods-FlareSyns.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F2B6DD9B42FE2EE42E9D4BE0 /* Pods-FlareSyns.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlareSyns.debug.xcconfig"; path = "Target Support Files/Pods-FlareSyns/Pods-FlareSyns.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,7 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3663708840044002CD250BC8 /* libPods-FlareSyns-FlareSynsTests.a in Frameworks */,
+				E43EEF3219D1E7B2C0729641 /* libPods-FlareSyns-FlareSynsTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,7 +59,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DDAE3C963934809766E98FE1 /* libPods-FlareSyns.a in Frameworks */,
+				8435F0A74ACCD526A60ADBFB /* libPods-FlareSyns.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -100,8 +100,8 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				6D7F931F48915E4025A2D222 /* libPods-FlareSyns.a */,
-				1C1A219AAEED82BAA45FCD7B /* libPods-FlareSyns-FlareSynsTests.a */,
+				67EDCF26C2BEBA70BEC946F6 /* libPods-FlareSyns.a */,
+				275EE6BDF9EDE1D04F2208EB /* libPods-FlareSyns-FlareSynsTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -140,10 +140,10 @@
 		C79CE7D18BFF262DEE1C1651 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				1FF0EE767AFDCD1C4A41E3C5 /* Pods-FlareSyns.debug.xcconfig */,
-				6C5862E12B9E35EADFB5C69B /* Pods-FlareSyns.release.xcconfig */,
-				9315D382165B94A0781A790C /* Pods-FlareSyns-FlareSynsTests.debug.xcconfig */,
-				462778B13022C7104897C86E /* Pods-FlareSyns-FlareSynsTests.release.xcconfig */,
+				F2B6DD9B42FE2EE42E9D4BE0 /* Pods-FlareSyns.debug.xcconfig */,
+				EAB722E7823BD97403117A48 /* Pods-FlareSyns.release.xcconfig */,
+				76A31F244F3AB13DA444BC06 /* Pods-FlareSyns-FlareSynsTests.debug.xcconfig */,
+				8992CF1C10AAFC0FBADA6F10 /* Pods-FlareSyns-FlareSynsTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -155,12 +155,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "FlareSynsTests" */;
 			buildPhases = (
-				54470B428037756702CD2DF4 /* [CP] Check Pods Manifest.lock */,
+				AC174AA9862B3054E3CDBEC9 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				440DD1B5EEF66CD3D92E9937 /* [CP] Embed Pods Frameworks */,
-				E4952190AF2C5545E13A9E91 /* [CP] Copy Pods Resources */,
+				0D6619A51BAE44CBFE994544 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -176,14 +175,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "FlareSyns" */;
 			buildPhases = (
-				E5A9A2847BCFE8944C554368 /* [CP] Check Pods Manifest.lock */,
+				A647465379204B1E1160466C /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				35362AD1B440E12DD5F11582 /* [CP] Embed Pods Frameworks */,
-				CA15B719B8CDA1823EA2FD73 /* [CP] Copy Pods Resources */,
+				C66306D6CC757975EAE5F043 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -264,41 +262,46 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh\n";
 		};
-		35362AD1B440E12DD5F11582 /* [CP] Embed Pods Frameworks */ = {
+		0D6619A51BAE44CBFE994544 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-FlareSyns/Pods-FlareSyns-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-FlareSyns-FlareSynsTests/Pods-FlareSyns-FlareSynsTests-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
-			name = "[CP] Embed Pods Frameworks";
+			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-FlareSyns/Pods-FlareSyns-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-FlareSyns-FlareSynsTests/Pods-FlareSyns-FlareSynsTests-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FlareSyns/Pods-FlareSyns-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FlareSyns-FlareSynsTests/Pods-FlareSyns-FlareSynsTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		440DD1B5EEF66CD3D92E9937 /* [CP] Embed Pods Frameworks */ = {
+		A647465379204B1E1160466C /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-FlareSyns-FlareSynsTests/Pods-FlareSyns-FlareSynsTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
-			name = "[CP] Embed Pods Frameworks";
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-FlareSyns-FlareSynsTests/Pods-FlareSyns-FlareSynsTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FlareSyns-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FlareSyns-FlareSynsTests/Pods-FlareSyns-FlareSynsTests-frameworks.sh\"\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		54470B428037756702CD2DF4 /* [CP] Check Pods Manifest.lock */ = {
+		AC174AA9862B3054E3CDBEC9 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -320,7 +323,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		CA15B719B8CDA1823EA2FD73 /* [CP] Copy Pods Resources */ = {
+		C66306D6CC757975EAE5F043 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -335,45 +338,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FlareSyns/Pods-FlareSyns-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		E4952190AF2C5545E13A9E91 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-FlareSyns-FlareSynsTests/Pods-FlareSyns-FlareSynsTests-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-FlareSyns-FlareSynsTests/Pods-FlareSyns-FlareSynsTests-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FlareSyns-FlareSynsTests/Pods-FlareSyns-FlareSynsTests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		E5A9A2847BCFE8944C554368 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-FlareSyns-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -428,7 +392,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9315D382165B94A0781A790C /* Pods-FlareSyns-FlareSynsTests.debug.xcconfig */;
+			baseConfigurationReference = 76A31F244F3AB13DA444BC06 /* Pods-FlareSyns-FlareSynsTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -455,7 +419,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 462778B13022C7104897C86E /* Pods-FlareSyns-FlareSynsTests.release.xcconfig */;
+			baseConfigurationReference = 8992CF1C10AAFC0FBADA6F10 /* Pods-FlareSyns-FlareSynsTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -479,7 +443,7 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1FF0EE767AFDCD1C4A41E3C5 /* Pods-FlareSyns.debug.xcconfig */;
+			baseConfigurationReference = F2B6DD9B42FE2EE42E9D4BE0 /* Pods-FlareSyns.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -506,7 +470,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6C5862E12B9E35EADFB5C69B /* Pods-FlareSyns.release.xcconfig */;
+			baseConfigurationReference = EAB722E7823BD97403117A48 /* Pods-FlareSyns.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
